@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.container-articles{
+    margin-top: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+
+.articles-others{
+    margin-top: 30px;
+    width: 455px;
+    height: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
